@@ -81,7 +81,10 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-
+![Correlation_heatmap](correlation_heatmap.png)
+![Feature importance plot](feature_importance.png)
+![Revenue_distribution](revenue_distribution.png)
+![Revenue_vs_views](revenue_vs_views.png)
 
 ---
 
